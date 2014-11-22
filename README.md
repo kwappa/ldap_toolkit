@@ -7,7 +7,7 @@ LDAP認証を使ったWebアプリケーションを開発するためのメモ�
 開発環境として、MacのローカルにOpenLDAPを立てます。
 
 ```
-ruby homobrew_openldap.rb
+ruby homebrew_openldap.rb
 ```
 
 やること
